@@ -1,5 +1,5 @@
 # movie-recommender-system
-<b/> ** Learning by Doing **<b>  
+<b/> ** Learning by Doing **  
 This is the project through which I will be carrying out data exploration, visualization and applying basic probabilistic model for my own learning and growth.  
   The project also includes exploring use of scikit learn package for implementing k-fold crossvalidation, and methods of analysing model performance.
 
